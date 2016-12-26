@@ -63,6 +63,7 @@
 //    [self GetUserInfo];//获取用户信息
 //    [self userRegist];//用户注册
     [self userForgetPassword];//用户忘记密码
+    //123
 }
 
 - (void)userForgetPassword{//用户忘记密码
